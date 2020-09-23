@@ -1,6 +1,6 @@
 {
   "name": "@phumo/hellonpm",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Learn how to publish npm package",
   "main": "dist/index.js",
   "repository": "https://github.com/phumoonlight/hellonpm.git",

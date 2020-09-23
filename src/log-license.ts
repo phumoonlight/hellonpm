@@ -1,7 +1,5 @@
-import packageJSON from '../package.json'
-
 export const logLicense = () => {
-  console.info(packageJSON.license)
+  console.info('MIT')
 }
 
 export default logLicense
